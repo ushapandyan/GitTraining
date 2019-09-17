@@ -1,0 +1,2 @@
+# GitTraining
+Git Practice repo
